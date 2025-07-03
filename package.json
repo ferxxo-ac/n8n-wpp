@@ -117,8 +117,6 @@
       "element-plus@2.4.3": "patches/element-plus@2.4.3.patch",
       "js-base64": "patches/js-base64.patch"
     }
-    "engines": {
-    "node": ">=20.15.1 
-    }
+    
   }
 }
