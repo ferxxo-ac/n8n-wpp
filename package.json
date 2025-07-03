@@ -118,7 +118,7 @@
       "js-base64": "patches/js-base64.patch"
     }
     "engines": {
-    "node": ">=20.15.1 <=22.16.0
+    "node": ">=20.15.1 
     }
   }
 }
